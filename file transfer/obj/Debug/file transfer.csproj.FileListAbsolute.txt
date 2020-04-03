@@ -1,0 +1,50 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Final Project HMS\file transfer\file transfer\bin\Debug\file transfer.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Final Project HMS\file transfer\file transfer\bin\Debug\file transfer.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Final Project HMS\file transfer\file transfer\bin\Debug\file transfer.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Final Project HMS\file transfer\file transfer\obj\Debug\file transfer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Final Project HMS\file transfer\file transfer\obj\Debug\Main.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Final Project HMS\file transfer\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Final Project HMS\file transfer\file transfer\obj\Debug\file transfer.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2015\Final Project HMS\file transfer\file transfer\obj\Debug\file transfer.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Final Project HMS\file transfer\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Dell\Desktop\file\file transfer\file transfer\bin\Debug\file transfer.exe.config
+C:\Users\Dell\Desktop\file\file transfer\file transfer\bin\Debug\file transfer.exe
+C:\Users\Dell\Desktop\file\file transfer\file transfer\bin\Debug\file transfer.pdb
+C:\Users\Dell\Desktop\file\file transfer\file transfer\obj\Debug\file transfer.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\file\file transfer\file transfer\obj\Debug\Main.resources
+C:\Users\Dell\Desktop\file\file transfer\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Dell\Desktop\file\file transfer\file transfer\obj\Debug\file transfer.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\file\file transfer\file transfer\obj\Debug\file transfer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\file\file transfer\file transfer\obj\Debug\file transfer.exe
+C:\Users\Dell\Desktop\file\file transfer\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Muhammad Arsal-PC\Desktop\project\filenew\file transfer\file transfer\bin\Debug\file transfer.exe.config
+C:\Users\Muhammad Arsal-PC\Desktop\project\filenew\file transfer\file transfer\obj\Debug\file transfer.exe
+C:\Users\Muhammad Arsal-PC\Desktop\project\filenew\file transfer\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Muhammad Arsal-PC\Desktop\project\filenew\file transfer\file transfer\bin\Debug\file transfer.exe
+C:\Users\Muhammad Arsal-PC\Desktop\project\filenew\file transfer\file transfer\bin\Debug\file transfer.pdb
+C:\Users\Muhammad Arsal-PC\Desktop\project\filenew\file transfer\file transfer\obj\Debug\file transfer.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Arsal-PC\Desktop\project\filenew\file transfer\file transfer\obj\Debug\Main.resources
+C:\Users\Muhammad Arsal-PC\Desktop\project\filenew\file transfer\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Muhammad Arsal-PC\Desktop\project\filenew\file transfer\file transfer\obj\Debug\file transfer.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\filenew\file transfer\file transfer\bin\Debug\file transfer.exe.config
+C:\Users\Dell\Desktop\filenew\file transfer\file transfer\bin\Debug\file transfer.exe
+C:\Users\Dell\Desktop\filenew\file transfer\file transfer\bin\Debug\file transfer.pdb
+C:\Users\Dell\Desktop\filenew\file transfer\file transfer\obj\Debug\file transfer.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\filenew\file transfer\file transfer\obj\Debug\Main.resources
+C:\Users\Dell\Desktop\filenew\file transfer\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Dell\Desktop\filenew\file transfer\file transfer\obj\Debug\file transfer.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\filenew\file transfer\file transfer\obj\Debug\file transfer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\filenew\file transfer\file transfer\obj\Debug\file transfer.exe
+C:\Users\Dell\Desktop\filenew\file transfer\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Areeb\Desktop\PDC\filenew\file transfer\file transfer\bin\Debug\file transfer.exe.config
+C:\Users\Areeb\Desktop\PDC\filenew\file transfer\file transfer\obj\Debug\file transfer.exe
+C:\Users\Areeb\Desktop\PDC\filenew\file transfer\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Areeb\Desktop\NP\file transfer\file transfer\bin\Debug\file transfer.exe.config
+C:\Users\Areeb\Desktop\NP\file transfer\file transfer\obj\Debug\file transfer.exe
+C:\Users\Areeb\Desktop\NP\file transfer\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Areeb\Desktop\NP\file transfer\file transfer\bin\Debug\file transfer.exe
+C:\Users\Areeb\Desktop\NP\file transfer\file transfer\bin\Debug\file transfer.pdb
+C:\Users\Areeb\Desktop\NP\file transfer\file transfer\obj\Debug\file transfer.csprojResolveAssemblyReference.cache
+C:\Users\Areeb\Desktop\NP\file transfer\file transfer\obj\Debug\Main.resources
+C:\Users\Areeb\Desktop\NP\file transfer\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Areeb\Desktop\NP\file transfer\file transfer\obj\Debug\file transfer.csproj.GenerateResource.Cache
